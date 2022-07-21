@@ -4,4 +4,3 @@ me and our team has succesfully clone it with th fuctionality and design
 and hope you like it.
 
 
-Live Link-https://leafy-sorbet-dccc4d.netlify.app/
