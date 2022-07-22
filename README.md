@@ -6,7 +6,7 @@ We have completed this project in 5 days.
 
 - [Click here](https://leafy-sorbet-dccc4d.netlify.app/) to see preview of our project.
 
-Kohls.com is leading E-Commerce website for all type of Clothings for men, women & Kids. And also Accessories and Electronics gadgets.
+MaxFashion.com is leading E-Commerce website for all type of clothes for  men,women & kids
 
 ## Credits
 
